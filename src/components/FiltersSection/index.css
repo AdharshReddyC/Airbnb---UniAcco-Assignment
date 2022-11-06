@@ -17,6 +17,7 @@
   list-style-type: none;
   margin-left: 0px;
   overflow-x: hidden;
+  align-items: center;
 }
 .left-filter-button {
   background-color: transparent;
